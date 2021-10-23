@@ -1,0 +1,29 @@
+{
+  "name": "drifty-framework",
+  "version": "1.0.0",
+  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noremacsim/Drifty-Framework.git"
+  },
+  "keywords": [
+    "php-framework",
+    "framework",
+    "php"
+  ],
+  "author": "Cameron Sim (noremacsim)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noremacsim/Drifty-Framework/issues"
+  },
+  "homepage": "https://github.com/noremacsim/Drifty-Framework#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.3.1"
+  }
+}
